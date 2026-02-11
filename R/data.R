@@ -1,0 +1,11 @@
+# data.R
+# Documentation for our data
+
+#' MSfrags
+#' Sample peptide fragments in Spectronaut format
+#' 
+#' @format A character vector containing 4 sample peptide fragments 
+#'  with protein modifications in Spectronaut format
+#' @source These fragments were generated from p51681
+#'  (for details, see ...)
+"MSfrags"
